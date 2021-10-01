@@ -1,6 +1,6 @@
 <h1 align="center"><b> THE<h1>🍁 ᳆⃞⃚🎓𝐓𝐄𝐂𝐍𝐎�҈҉⃝Ｍ Ａ F I Ａ🇱🇰𖤐 X-Troid Public Bot  </b></h1>
 
-![logo](https://ibb.co/nP57KZG)
+![logo](https://ibb.co/nP57KZG.jpg)
 
 <p align="center">
     Project of ᳆⃞⃚🎓𝐓𝐄𝐂𝐍𝐎�҈҉⃝Ｍ Ａ F I Ａ🇱🇰𖤐  X-Troid - Makes it easy and fun to use Whatsapp. Also first Sinhala userbot for Whatsapp.
