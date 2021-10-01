@@ -20,11 +20,7 @@
 ## Thanks To
 [![Yusuf Usta](https://github.com/yusufusta.png?size=50)](https://t.me/fusufs)  | [![CW4RR10R](https://github.com/CW4RR10R.png?size=50)](https://github.com/CW4RR10R)
 ----|----|
-[Yusuf Usta](https://t.me/fusufs) | [CW4RR10R](https://t.meW4RR10R)
+[Yusuf Usta](https://chat.whatsapp.com/E0nLYIXyOWOFyDQ9EvdzFX) | [CW4RR10R](https://t.meW4RR10R)
  Base, | hepls,idea
-# base bot
-https://github.com/yusufusta/WhatsAsena
-# Baileys whatsapp api 
-https://github.com/adiwajshing/Baileys
 
 [![](https://telegra.ph/file/1c742619b421e4713e414.jpg?size=50)](https://chat.whatsapp.com/E0nLYIXyOWOFyDQ9EvdzFX) 
