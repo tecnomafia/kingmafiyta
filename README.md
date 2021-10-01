@@ -6,7 +6,7 @@
     Project of ᳆⃞⃚🎓𝐓𝐄𝐂𝐍𝐎�҈҉⃝Ｍ Ａ F I Ａ🇱🇰𖤐  X-Troid - Makes it easy and fun to use Whatsapp. Also first Sinhala userbot for Whatsapp.
     <br>
        
-        <a href="https://chat.whatsapp.com/JigWG8oj1hj1YXLgJaqxta">New Support Group</a> |
+        <a href="https://chat.whatsapp.com/E0nLYIXyOWOFyDQ9EvdzFX">New Support Group</a> |
        
     <br>
 </p>
@@ -27,4 +27,4 @@ https://github.com/yusufusta/WhatsAsena
 # Baileys whatsapp api 
 https://github.com/adiwajshing/Baileys
 
-[![](https://telegra.ph/file/1c742619b421e4713e414.jpg?size=50)](https://t.me/danumabots) 
+[![](https://telegra.ph/file/1c742619b421e4713e414.jpg?size=50)](https://chat.whatsapp.com/E0nLYIXyOWOFyDQ9EvdzFX) 
